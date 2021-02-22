@@ -59,3 +59,4 @@ In particular, pay close attention to function declarations and how the function
 *Indentation*: The indentation style for your work have to be 4 spaces. Many students are taught to use tabs for indentation, which can make code very hard to read, especially when there are several levels of indentation.
 
 For additional information of C++ coding style see [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html).
+d
