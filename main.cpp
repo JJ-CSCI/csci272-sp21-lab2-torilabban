@@ -3,7 +3,7 @@
 //------------------------------
 #include "catch.hpp"
 //------------------------------
-
+//Victoria Labban
 // Use this enum class for indicating the lat/long direction
 enum class Compass {N, S, W, E};
 
